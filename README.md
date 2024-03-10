@@ -1,2 +1,2 @@
 # Prueba_PlutoTV
-Pluto TV es una plataforma de streaming gratuita que ofrece una amplia variedad de contenido, incluyendo transmisiones en vivo, programación on-demand y a la carta. Los usuarios pueden crear perfiles personalizados para ajustar sus preferencias y acceder fácilmente a sus programas y canales favoritos
+Objetivo: Realizar pruebas exhaustivas en una plataforma de streaming sin fines de lucro para garantizar su funcionalidad, confiabilidad y rendimiento óptimos. Las pruebas abarcarán diversos aspectos de la plataforma, incluyendo la navegación del usuario, la reproducción de contenido.
